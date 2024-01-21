@@ -1,2 +1,2 @@
-main a.txt 내용 입니다.
+test a.txt 내용 입니다.
 
